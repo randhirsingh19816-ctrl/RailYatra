@@ -1,5 +1,5 @@
 # RailYatra
-# TrainReservation System
+TrainReservation System
 
 A railway reservation system built as a Java/Spring Boot REST API with a React/Vite web client. The application supports authentication, train search and availability, user bookings and cancellations, and administrator management of stations, trains, and train routes.
 
